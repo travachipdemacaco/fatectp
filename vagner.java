@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
-public class main {
-    public main(String[] args) {
+public class vagner {
+    public void main(String[] args) {
 
         Scanner teclado = new Scanner(System.in);
 
